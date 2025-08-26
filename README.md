@@ -27,9 +27,9 @@
 
 <h3 align="left">🔥 GitHub Stats </h3>
 <p align="center"> 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=uzairahm290)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=uzairahm290&show_icons=true&theme=codeSTACKr&hide_border=true&rank_icon=github" height="180px"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairahm290&layout=compact&theme=codeSTACKr&hide_border=true" height="180px"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=uzairahm290&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 
