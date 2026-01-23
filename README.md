@@ -18,9 +18,6 @@
   <img src="https://skillicons.dev/icons?i=linux,kali,c,cpp,python,go,git,bash,qt,vim,ubuntu,dotnet,html,css,js,sqlite,mysql,postgres,react,next,node,tailwind,kubernetes,docker" />
 </p>
 
-<h3 align="left">⚡ Hacking Profiles</h3>
-<p align="center"> <table> <tr> <td align="center"> <a href="https://tryhackme.com/p/ShadowByte3301" target="_blank"> <img src="https://tryhackme-badges.s3.amazonaws.com/ShadowByte3301.png" alt="TryHackMe Profile"> </a> </td> </tr> </table> </p>
-
 
 <h3 align="left">🔥 GitHub Stats </h3>
 <p align="center"> 
