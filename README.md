@@ -36,46 +36,118 @@
 
 ## 🧠 About Me
 
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Lahore,_Pakistan-1e293b?style=flat-square&labelColor=3B82F6&color=1e293b" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/💼_Open_to_Work-16a34a?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎓_BS_CS_—_FAST_NUCES-1e293b?style=flat-square&labelColor=6366F1&color=1e293b" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🌐_Remote_Friendly-1e293b?style=flat-square&labelColor=10B981&color=1e293b" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔐_CTF_Winner-1e293b?style=flat-square&labelColor=F59E0B&color=1e293b" />
+</p>
+
+<br/>
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+### 👋 Hey there!
+
+I'm a **Full Stack Engineer** with a track record of building scalable, AI-powered web applications using **Python (Django)**, **Node.js**, **.NET**, and **React / Next.js**. I enjoy connecting clean frontend experiences with robust backend logic through well-structured REST APIs.
+
+Beyond standard web dev, my **Blue Teaming & CTF** background shapes how I think about security-first system design — so the things I build are as fortified as they are fast.
+
+- 🔭 Currently building AI-driven products at **AIforMax**
+- 🧠 Focused on **AI integration, system design & DevOps**
+- 🏆 CTF Winner · 2× Cybersecurity Competition Finalist
+- 🤫 Fun fact: introvert who builds tools that connect people
+
+</td>
+<td width="48%" valign="top">
+
 ```typescript
-const uzair: Developer = {
-  name:       "Uzair Ahmad",
-  location:   "Johar Town, Lahore, Pakistan 🇵🇰",
-  role:       "Full Stack Engineer @ AIforMax",
-  education:  "BS Computer Science — FAST NUCES",
-
+const uzair = {
+  role:    "Full Stack Engineer",
+  company: "AIforMax 🚀",
   stack: {
-    languages:  ["TypeScript", "JavaScript", "Python", "C#"],
-    frontend:   ["React", "Next.js", "Vue", "Tailwind CSS", "Redux"],
-    backend:    ["Node.js", "Express.js", "Django", "ASP.NET Core"],
-    databases:  ["PostgreSQL", "MongoDB", "SQLite", "Prisma ORM"],
-    cloud:      ["AWS", "Azure", "Docker", "Kubernetes"],
-    devops:     ["GitHub Actions", "CI/CD", "WebSockets", "Celery"],
-    security:   ["JWT/OAuth", "RBAC", "SOC Workflows", "Malware Analysis"],
+    frontend: ["React", "Next.js", "Vue"],
+    backend:  ["Django", "Node.js", ".NET"],
+    db:       ["PostgreSQL", "MongoDB"],
+    devops:   ["Docker", "K8s", "GH Actions"],
+    security: ["JWT/OAuth", "RBAC", "SOC"],
   },
-
-  currentFocus:  "AI integration, advanced backend engineering & production-grade deployments",
-  funFact:       "I'm an introvert who builds things that connect people 🤫",
-  openTo:        ["Freelance", "Full-time", "Collaboration"],
+  loves:  "AI + Cybersecurity 🤖🔐",
+  openTo: ["Freelance", "Full-time"],
 };
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-| Period | Role | Company |
-|--------|------|---------|
-| Mar 2026 – Present | 🟢 Software Engineer | AIforMax |
-| Jan 2026 – Mar 2026 | 🔵 Associate Software Engineer | AIforMax |
-| Jun 2025 – Aug 2025 | 🟡 Software Engineer Intern | AIforMax |
-| Feb 2025 – Jun 2025 | 🟠 Full Stack Engineer | Usync Solutions |
-| Jun 2024 – Aug 2024 | 🔴 SOC Intern | ITSOLERA PVT LTD |
+> Click any role to expand details
 
-**Highlights:**
-- ⚡ Cut API response times by **40%** by integrating AI components directly into core workflows
-- 🚀 Slashed deployment failures by **99%** with a robust GitHub Actions CI/CD pipeline
-- 🤖 Built real-time AI-driven features using **WebSockets + Celery** under high load
-- 🔗 Designed **n8n automation workflows** and integrated GoHighLevel with third-party platforms via REST APIs
+<details>
+<summary>🟢 &nbsp; <strong>Software Engineer — AIforMax</strong> &nbsp; <code>Mar 2026 – Present</code></summary>
+<br/>
+
+- ⚡ Cut API response times by **40%** by integrating AI components directly into core workflows, boosting user automation efficiency by **15%**
+- 🤖 Built and maintained AI-driven web applications using **Python (Django)**, **Node.js**, and **.NET** on the backend with **React / Next.js** on the frontend
+- 🔄 Designed real-time features and async background tasks with **WebSockets + Celery** to keep AI-heavy processing fast under high load
+
+<br/>
+</details>
+
+<details>
+<summary>🔵 &nbsp; <strong>Associate Software Engineer — AIforMax</strong> &nbsp; <code>Jan 2026 – Mar 2026</code></summary>
+<br/>
+
+- 🚀 Slashed deployment failures by **99%** after rolling out a robust CI/CD pipeline with **GitHub Actions**
+- 🔗 Built and integrated **RESTful APIs** to power AI workflows and data-driven features
+- 🗄️ Tuned database queries across **PostgreSQL** and **MongoDB**, speeding up data retrieval for frontend dashboards
+
+<br/>
+</details>
+
+<details>
+<summary>🟡 &nbsp; <strong>Software Engineer Intern — AIforMax</strong> &nbsp; <code>Jun 2025 – Aug 2025</code></summary>
+<br/>
+
+- 🛠️ Helped build and maintain AI-driven web applications using **Python** and **React**
+- 🐛 Worked alongside senior engineers to troubleshoot issues and fine-tune frontend components for better performance
+- 📋 Participated in code reviews, team meetings, and contributed to project planning and feature decisions
+
+<br/>
+</details>
+
+<details>
+<summary>🟠 &nbsp; <strong>Full Stack Engineer — Usync Solutions</strong> &nbsp; <code>Feb 2025 – Jun 2025</code></summary>
+<br/>
+
+- ⚙️ Designed and deployed multi-step automation workflows in **n8n**, streamlining internal business processes
+- 🔗 Connected **GoHighLevel (GHL)** with third-party platforms via **RESTful APIs**, improving CRM operations and lead management
+- 🧠 Built intelligent data pipelines by embedding **AI automations** into n8n workflows using Python for custom logic
+
+<br/>
+</details>
+
+<details>
+<summary>🔴 &nbsp; <strong>SOC Intern — ITSOLERA PVT LTD</strong> &nbsp; <code>Jun 2024 – Aug 2024</code></summary>
+<br/>
+
+- 🛡️ Monitored network traffic and security alerts using **SIEM tools** to identify potential threats
+- 🔍 Helped senior analysts triage and investigate security incidents
+- 📊 Performed **log analysis** and vulnerability assessments to support the security operations team
+
+<br/>
+</details>
 
 ---
 
